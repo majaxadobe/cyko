@@ -16,9 +16,22 @@
 
   on the "Options" tab you got to Rate Control methods and describes as:
   * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
+  the lower the CRF value the higher the quality but the bigger the filesize
+  the higher the CRF value the lower the quality but the smaller the filesize
+  for CRF value ranges for a given resolution ill go with
+  400p at 16:9 (704x400) ill go with CRF = 25 or 26
+  384p at 4:3 (512x384) ill go with CRF = 25 or 26
+  480p at 16:9 (848x480) ill go with CRF = 26 or 28
+  480p at 4:3 (640x480) ill go with CRF = 26 or 28
+
   * "Target Bitrate" is 2-pass average bitrate mode, in audio encoding like mp3 its called ABR (Average Bitrate), so 2-pass average bitrate is for somewhat constant filesize but quality varies
-  NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints 
-  for what values are good starting points
+  for average bitrate value ranges for a given resolution ill go with
+  400p at 16:9 (704x400) ill go with bitrate = 300 or 380
+  384p at 4:3 (512x384) ill go with CRF = 300 or 380
+  480p at 16:9 (848x480) ill go with CRF = 380 or 450
+  480p at 4:3 (640x480) ill go with CRF = 380 or 450
+
+  NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints for what values are good starting points
   * set a resolution on "Height" examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
   * set 48 on your audio bitrate, HandbrakeCLI only supports vorbis audio and the lowest you can set is 48 kbps
   * check "Hard Subs", HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only soft subbed it, their is no soft subbed for ASS/SSA at the moment but its being planned by Handbrake developers
