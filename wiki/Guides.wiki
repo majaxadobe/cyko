@@ -16,7 +16,7 @@
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDVx3gZ5I/AAAAAAAAAR8/VejRgwM_1LQ/s800/Tuts_Cyko_01.png
 
 -------------
-  on the "Options" tab you got to Rate Control methods and describes as:
+  on the "Options" tab you got two Rate Control methods and describes as:
   * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution; in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
     * the lower the CRF value the higher the quality but the bigger the filesize
     * the higher the CRF value the lower the quality but the smaller the filesize
