@@ -31,9 +31,9 @@
   for average bitrate value ranges for a given resolution ill go with
 {{{
   400p at 16:9 (704x400) ill go with bitrate = 300 or 380
-  384p at 4:3 (512x384) ill go with CRF = 300 or 380
-  480p at 16:9 (848x480) ill go with CRF = 380 or 450
-  480p at 4:3 (640x480) ill go with CRF = 380 or 450
+  384p at 4:3 (512x384) ill go with bitrate = 300 or 380
+  480p at 16:9 (848x480) ill go with bitrate = 380 or 450
+  480p at 4:3 (640x480) ill go with bitrate = 380 or 450
 }}}
   NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints for what values are good starting points
   * set a resolution on "Height" examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
