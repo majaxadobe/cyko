@@ -19,7 +19,7 @@
     * the lower the CRF value the higher the quality but the bigger the filesize
     * the higher the CRF value the lower the quality but the smaller the filesize
   
-  for CRF value ranges for a given resolution ill go with
+  for CRF value ranges of a given resolution ill go with
 {{{
   400p at 16:9 (704x400) ill go with CRF = 25 or 26
   384p at 4:3 (512x384) ill go with CRF = 25 or 26
@@ -28,7 +28,7 @@
 }}}
   * "Target Bitrate" is 2-pass average bitrate mode; in audio encoding like mp3 its called ABR (Average Bitrate), so 2-pass average bitrate is for somewhat constant filesize but quality varies
 
-  for average bitrate value ranges for a given resolution ill go with
+  for average bitrate value ranges of a given resolution ill go with
 {{{
   400p at 16:9 (704x400) ill go with bitrate = 300 or 380
   384p at 4:3 (512x384) ill go with bitrate = 300 or 380
