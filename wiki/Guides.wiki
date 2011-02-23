@@ -14,6 +14,7 @@
 
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDVx3gZ5I/AAAAAAAAAR8/VejRgwM_1LQ/s800/Tuts_Cyko_01.png
 
+-------------
   on the "Options" tab you got to Rate Control methods and describes as:
   * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution; in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
     * the lower the CRF value the higher the quality but the bigger the filesize
@@ -49,6 +50,7 @@
 
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWK6_CKI/AAAAAAAAASA/vmE16WNtQgU/s800/Tuts_Cyko_02.png
 
+---------------
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
   
   NOTE: if you like to stop the encoding do not close the console window but rather click "Abort Encoding" button so that HandbrakeCLI will be remove safely from computer memory then if the encoding is finished it will show you this message box
