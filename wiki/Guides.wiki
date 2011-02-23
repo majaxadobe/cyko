@@ -1,6 +1,5 @@
 #summary a simple tutorial on using cyko
 
--------------
 === getting cyko ===
   * download cyko here -> http://code.google.com/p/cyko/downloads/list
 
