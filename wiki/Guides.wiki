@@ -6,6 +6,7 @@
 === installing cyko ===
   * guide to install it is here -> http://code.google.com/p/cyko/
 
+-------------
 === encoding with cyko ===
   on the "Inputs" tab you got 2 options to add your source files for re-encoding:
   * option 1, click the "Add Source Files" button 
