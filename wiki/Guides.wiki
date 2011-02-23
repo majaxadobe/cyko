@@ -16,7 +16,7 @@
 
   on the "Options" tab you got to Rate Control methods and describes as:
   * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
-  * "Target Bitrate" is 2-pass average bitrate mode, in audio encoding like mp3 its called ABR (Average Bitrate)
+  * "Target Bitrate" is 2-pass average bitrate mode, in audio encoding like mp3 its called ABR (Average Bitrate), so 2-pass average bitrate is for somewhat constant filesize but quality varies
   NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints 
   for what values are good starting points
   * set a resolution on "Height" examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
