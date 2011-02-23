@@ -1,0 +1,14 @@
+#summary what are the changes to cyko
+
+* 02-23-2011 *
+  * target Filesize is remove due to handbrake developers plan to remove it, read more here ->  https://forum.handbrake.fr/viewtopic.php?f=11&t=20174 you can still use average Bitrate though its name on cyko is "Target Bitrate" 
+  * HandbrakeCLI.exe detection is now better
+  * remove the Width inputbox as it confuses newbies to encoding, resolution is in Height and in pixels anyway like 400p or 360p or 384p or 480p or 576p or etc.
+  * rename "CRF" to "Target Quality"
+  * rename "Bitrate" to "Target Bitrate"
+* 11-11-10 *
+  * adjusted PsyRD value to 0.0 on all quality presets but i didnt disable psy opts with --no-psy
+
+* 11-05-10 *
+  * fixed the abort button it will only abort when encoding is going
+  * added ReadMe.txt it will give you instructions on how to get and update HandbrakeCLI.exe
