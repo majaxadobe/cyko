@@ -61,7 +61,7 @@
 
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWrINwFI/AAAAAAAAASI/OG_HSpyxV2M/s800/Tuts_Cyko_05.png
 
-  this means that the output files are in the same place where the input files are just with added "-OUT" on its filename
+  this means that the output files are in the same place where the input files are, just with added "-OUT" on its filename
 
   NOTE: if ever you are prompted by this message box
 
