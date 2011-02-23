@@ -37,9 +37,13 @@
 }}}
   NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints for what values are good starting points
   * set a resolution on "Height" examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
+
   * set 48 on your audio bitrate, HandbrakeCLI only supports vorbis audio and the lowest you can set is 48 kbps
+
   * check "Hard Subs", HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only soft subbed it, their is no soft subbed for ASS/SSA at the moment but its being planned by Handbrake developers
+
   * set "High Quality" on "Presets" area, this is the highest setting meaning it will give high quality but at the price of longer encoding time
+
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWK6_CKI/AAAAAAAAASA/vmE16WNtQgU/s800/Tuts_Cyko_02.png
