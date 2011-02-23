@@ -12,3 +12,24 @@
 * 11-05-10 *
   * fixed the abort button it will only abort when encoding is going
   * added ReadMe.txt it will give you instructions on how to get and update HandbrakeCLI.exe
+
+* 11-03-10 *
+  * fix a scanning bug that occured when i reprogram the scanning feature
+
+* 11-02-10 *
+  * improve the scanning of multi-audio tracks
+  * fixes some possible user errors
+
+* 11-01-10 *
+  * add scanning status area below the scanning progress bar
+  * the scanning status area has tooltip so just pause your mouse pointer for a while in that area to see it
+
+* 10-30-10 *
+  * automatically detects and encodes multi-audio just like minicoder
+
+* 10-26-10 *
+  * "Show Console When Encoding" checkbox now works without restarting Cyko
+  * updated HandbrakeCLI to svn3625
+
+* 10-25-10 *
+  * updated now with Drag and Drop support (as requested) 
