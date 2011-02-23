@@ -28,6 +28,7 @@
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWK6_CKI/AAAAAAAAASA/vmE16WNtQgU/s800/Tuts_Cyko_02.png
 
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
+  
   NOTE: if you like to stop the encoding do not close the console window but rather click "Abort Encoding" button so that HandbrakeCLI will be remove safely from computer memory then if the encoding is finished it will show you this message box
 
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWrINwFI/AAAAAAAAASI/OG_HSpyxV2M/s800/Tuts_Cyko_05.png
