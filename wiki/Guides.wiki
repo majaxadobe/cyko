@@ -12,7 +12,7 @@
   * option 2, as long as the "Inputs" tab is showin you drag and drop files onto the "Inputs" tab
   then your done adding source files, a screenshot for "Inputs" is below
 
-Tuts_Cyko_01.png
+  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDVx3gZ5I/AAAAAAAAAR8/VejRgwM_1LQ/s800/Tuts_Cyko_01.png
 
   on the "Options" tab you got to Rate Control methods and describes as:
   * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
@@ -25,32 +25,19 @@ Tuts_Cyko_01.png
   * set "High Quality" on "Presets" area, this is the highest setting meaning it will give high quality but at the price of longer encoding time
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
-Tuts_Cyko_02.png
+  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWK6_CKI/AAAAAAAAASA/vmE16WNtQgU/s800/Tuts_Cyko_02.png
 
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
   NOTE: if you like to stop the encoding do not close the console window but rather click "Abort Encoding" button so that HandbrakeCLI will be remove safely from computer memory then if the encoding is finished it will show you this message box
 
-Tuts_Cyko_05.png
+  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWrINwFI/AAAAAAAAASI/OG_HSpyxV2M/s800/Tuts_Cyko_05.png
 
   this means that the output files are in the same place where the input files are just with added "-OUT" on its filename
 
   NOTE: if ever you are prompted by this message box
 
-Tuts_Cyko_06.png 
+  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDW4JQggI/AAAAAAAAASM/BpO93WwmgzY/s800/Tuts_Cyko_06.png
 
   it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again
 
   and that is all folks, congrats on re-encoding
-
-----------------------------------
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
