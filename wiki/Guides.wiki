@@ -45,6 +45,7 @@
   * set a resolution on "Height (Pixel)" input box examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
       * the higher the output resolution the longer the encoding time
       * the lower the output resolution the faster the encoding time
+      * so for example a 720p output resolution will be longer to encode than 400p output resolution
 
   * set 48 on your "Audio Bitrate" input box, HandbrakeCLI only supports vorbis audio and the lowest you can set is 48 kbps
 
