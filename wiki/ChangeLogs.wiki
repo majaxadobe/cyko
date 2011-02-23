@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary what are the changes to cyko
 
 * 02-23-2011 *
   * target Filesize is remove due to handbrake developers plan to remove it, read more here ->  https://forum.handbrake.fr/viewtopic.php?f=11&t=20174 you can still use average Bitrate though its name on cyko is "Target Bitrate" 
@@ -12,5 +12,3 @@
 * 11-05-10 *
   * fixed the abort button it will only abort when encoding is going
   * added ReadMe.txt it will give you instructions on how to get and update HandbrakeCLI.exe
-
-
