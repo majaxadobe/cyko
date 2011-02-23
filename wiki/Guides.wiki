@@ -1,0 +1,56 @@
+#summary a simple tutorial
+
+=== getting cyko ===
+  * download cyko here -> http://code.google.com/p/cyko/downloads/list
+
+=== installing cyko ===
+  * guide to install it is here -> http://code.google.com/p/cyko/
+
+=== encoding with cyko ===
+  on the "Inputs" tab you got 2 options to add your source files for re-encoding:
+  * option 1, click the "Add Source Files" button 
+  * option 2, as long as the "Inputs" tab is showin you drag and drop files onto the "Inputs" tab
+  then your done adding source files, a screenshot for "Inputs" is below
+
+Tuts_Cyko_01.png
+
+  on the "Options" tab you got to Rate Control methods and describes as:
+  * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
+  * "Target Bitrate" is 2-pass average bitrate mode, in audio encoding like mp3 its called ABR (Average Bitrate)
+  NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints 
+  for what values are good starting points
+  * set a resolution on "Height" examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
+  * set 48 on your audio bitrate, HandbrakeCLI only supports vorbis audio and the lowest you can set is 48 kbps
+  * check "Hard Subs", HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only soft subbed it, their is no soft subbed for ASS/SSA at the moment but its being planned by Handbrake developers
+  * set "High Quality" on "Presets" area, this is the highest setting meaning it will give high quality but at the price of longer encoding time
+  * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
+
+Tuts_Cyko_02.png
+
+  on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
+  NOTE: if you like to stop the encoding do not close the console window but rather click "Abort Encoding" button so that HandbrakeCLI will be remove safely from computer memory then if the encoding is finished it will show you this message box
+
+Tuts_Cyko_05.png
+
+  this means that the output files are in the same place where the input files are just with added "-OUT" on its filename
+
+  NOTE: if ever you are prompted by this message box
+
+Tuts_Cyko_06.png 
+
+  it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again
+
+  and that is all folks, congrats on re-encoding
+
+----------------------------------
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
