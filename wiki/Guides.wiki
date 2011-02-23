@@ -30,9 +30,9 @@
   480p at 4:3 (640x480) ill go with CRF = 27 or 28
 }}}
   * "Target Bitrate" is 2-pass average bitrate mode; in audio encoding like mp3 its called ABR (Average Bitrate), so 2-pass average bitrate is for somewhat constant filesize but quality varies
-
     * the lower the bitrate the lower the quality but lower the filesize
     * the higher the bitrate the higher the quality but higher the filesize 
+
   for average bitrate value ranges of a given resolution ill go with
 {{{
   400p at 16:9 (704x400) ill go with bitrate = 300 or 380
