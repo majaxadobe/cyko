@@ -17,7 +17,7 @@
 
 -------------
   on the "Options" tab you got two Rate Control methods and describes as:
-  * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality in constant quality mode filesize will depend on the videos compressibility and resolution; in audio encoding like mp3 its called VBR (Variable Bitrate), so CRF is for somewhat constant quality but filesize varies
+  * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality, in constant quality mode filesize will depend on the videos compressibility and resolution; CRF is for somewhat constant quality but filesize varies
     * the lower the CRF value the higher the quality but the bigger the filesize
     * the higher the CRF value the lower the quality but the smaller the filesize
     * when your encoding in CRF or Target Quality the higher the resolution output you set then the higher the filesize, for example you encode a specific file at 480p output and that exact file is encoded too at 720p output and that both of them are encoded at same settings and same CRF value of 26, the 720p at CRF = 26 will have higher filesize 
@@ -29,7 +29,7 @@
   480p at 16:9 (848x480) ill go with CRF = 27 or 28
   480p at 4:3 (640x480) ill go with CRF = 27 or 28
 }}}
-  * "Target Bitrate" is 2-pass average bitrate mode; in audio encoding like mp3 its called ABR (Average Bitrate), so 2-pass average bitrate is for somewhat constant filesize but quality varies
+  * "Target Bitrate" is 2-pass average bitrate mode; 2-pass average bitrate is for somewhat constant filesize but quality varies
     * the lower the bitrate the lower the quality but lower the filesize
     * the higher the bitrate the higher the quality but higher the filesize 
 
