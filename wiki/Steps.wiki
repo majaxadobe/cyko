@@ -1,0 +1,49 @@
+#simple steps to re-encode using Cyko
+
+* *getting cyko*
+   download cyko here -> http://code.google.com/p/cyko/downloads/list 
+* *installing cyko*
+   guide to install it is here -> http://code.google.com/p/cyko/
+
+* *encoding with cyko*
+
+Cyk-01.png
+
+Cyk-02.png
+
+Notes:
+*Rate Control*
+  Target Quality choose from 25-30 for example on "Value" inputbox set 26
+    the higher the quality value the lower the quality but higher the file size
+  Target Bitrate choose from 300-500 for example on "Value" inputbox set 400
+    the higher the bitrate value the higher the quality but higher the file size
+*Height*
+  choose from 400, 480, 576 (this is 400p, 480p, 576p)
+  cyko (specifically Handbrake) do not allow upscaling so if your source is not
+  720p for example once you set 720p on the "Height" inputbox it will be automatically
+  set to the actual height pixel resolution of the source
+*Audio Bitrate*
+  choose from 48-99 for example 48 is the recommend choice
+     the higher the audio bitrate the higher the quality but higher the file size
+*HardSubs*
+  check this always
+*Presets*
+  always go for "High Quality" at the cost of longer re-encoding time
+
+Cyk-03.png
+
+then if the re-encoding is finished it will show you this message box 
+
+Cyk-04.png
+
+this means that the output files are in the same place where the input files are, just with added "-OUT" on its filename 
+
+NOTE: if ever you are prompted by this message box 
+
+Cyk-05.png
+
+it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again 
+
+and that is all folks, congrats on re-encoding 
+
+
