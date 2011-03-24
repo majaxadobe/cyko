@@ -13,17 +13,17 @@ Notes:
 
 *Rate Control*
   Target Quality choose from 25-30 for example on "Value" inputbox set 26
-    the higher the quality value the lower the quality but higher the file size
+    * the higher the quality value the lower the quality but higher the file size
   Target Bitrate choose from 300-500 for example on "Value" inputbox set 400
-    the higher the bitrate value the higher the quality but higher the file size
+    * the higher the bitrate value the higher the quality but higher the file size
 *Height*
   choose from 400, 480, 576 (this is 400p, 480p, 576p)
-  cyko (specifically Handbrake) do not allow upscaling so if your source is not
+    * cyko (specifically Handbrake) do not allow upscaling so if your source is not
   720p for example once you set 720p on the "Height" inputbox it will be automatically
   set to the actual height pixel resolution of the source
 *Audio Bitrate*
   choose from 48-99 for example 48 is the recommend choice
-     the higher the audio bitrate the higher the quality but higher the file size
+    * the higher the audio bitrate the higher the quality but higher the file size
 *HardSubs*
   check this always
 *Presets*
