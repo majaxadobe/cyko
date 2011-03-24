@@ -13,7 +13,7 @@ Notes:
 
 *Rate Control*
   Target Quality choose from 25-30 for example on "*Value*" inputbox set 26
-    * the higher the quality value the lower the quality but higher the file size
+    * the higher the quality value the lower the quality but lower the file size
   Target Bitrate choose from 300-500 for example on "*Value*" inputbox set 400
     * the higher the bitrate value the higher the quality but higher the file size
 *Height*
