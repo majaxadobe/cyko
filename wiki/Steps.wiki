@@ -7,9 +7,9 @@
 
 *encoding with cyko*
 
-https://lh6.googleusercontent.com/_mkr3XoFuDyQ/TYrlijFlgaI/AAAAAAAAAUc/Fs6JFTzH0Ew/s800/Cyk-01.png
+https://lh3.googleusercontent.com/_mkr3XoFuDyQ/TYttbLu_yQI/AAAAAAAAAVE/oKpM5RFnk9U/s800/Cyk-01.png
 
-https://lh3.googleusercontent.com/_mkr3XoFuDyQ/TYrljfcH-II/AAAAAAAAAUk/GqAy_QK1z1g/s800/Cyk-02.png
+https://lh5.googleusercontent.com/_mkr3XoFuDyQ/TYttbaaI7UI/AAAAAAAAAVI/o1w-oXckXOE/s800/Cyk-02.png
 
 Notes:
 
@@ -29,7 +29,7 @@ Notes:
 *Presets*
   always go for "High Quality" at the cost of longer re-encoding time
 
-https://lh5.googleusercontent.com/_mkr3XoFuDyQ/TYrli1vvL_I/AAAAAAAAAUg/zyvNZVdxXAI/s800/Cyk-03.png
+https://lh6.googleusercontent.com/_mkr3XoFuDyQ/TYttaxtf3lI/AAAAAAAAAVA/arxEY3PIkYg/s800/Cyk-03.png
 
 then if the re-encoding is finished it will show you this message box 
 
