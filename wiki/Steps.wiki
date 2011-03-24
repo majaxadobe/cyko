@@ -12,9 +12,9 @@ https://lh3.googleusercontent.com/_mkr3XoFuDyQ/TYrljfcH-II/AAAAAAAAAUk/GqAy_QK1z
 Notes:
 
 *Rate Control*
-  Target Quality choose from 25-30 for example on "Value" inputbox set 26
+  Target Quality choose from 25-30 for example on "*Value*" inputbox set 26
     * the higher the quality value the lower the quality but higher the file size
-  Target Bitrate choose from 300-500 for example on "Value" inputbox set 400
+  Target Bitrate choose from 300-500 for example on "*Value*" inputbox set 400
     * the higher the bitrate value the higher the quality but higher the file size
 *Height*
   choose from 400, 480, 576 (this is 400p, 480p, 576p)
