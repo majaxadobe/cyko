@@ -1,5 +1,11 @@
 #summary what are the changes to cyko
 
+* 03-30-11 *
+  * updated the presets, high quality preset is same as --preset veryslow of x264 this will give more compression and quality gain at the cost of a little longer encoding time
+
+* 03-03-11 *
+  * the close button of the console window is now disabled so if you want to stop the encoding process just click "Abort Encoding" button on the GUI app
+
 * 02-23-2011 *
   * target Filesize is remove due to handbrake developers plan to remove it, read more here ->  https://forum.handbrake.fr/viewtopic.php?f=11&t=20174 you can still use average Bitrate though its name on cyko is "Target Bitrate" 
   * HandbrakeCLI.exe detection is now better
