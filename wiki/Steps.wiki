@@ -3,7 +3,7 @@
 *getting cyko*
    download cyko here -> http://code.google.com/p/cyko/downloads/list 
 *installing cyko*
-   guide to install it is here -> http://code.google.com/p/cyko/
+   guide to install it is here -> http://code.google.com/p/cyko/wiki/Installation
 
 *encoding with cyko*
 
