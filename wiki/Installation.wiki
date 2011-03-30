@@ -12,4 +12,4 @@
 
   and ye you can place the whole folder containing cyko.exe and handbrakeCLI.exe wherever you want afterwards and you can even carry it on your USB Flash Drive if you want to encode on a different computer
 
-and simple tutorials for Cyko are this -> http://code.google.com/p/cyko/wiki/Steps or http://code.google.com/p/cyko/wiki/Guides
+  and simple tutorials for Cyko are this -> http://code.google.com/p/cyko/wiki/Steps or http://code.google.com/p/cyko/wiki/Guides
