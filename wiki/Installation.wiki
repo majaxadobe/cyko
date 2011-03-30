@@ -1,4 +1,4 @@
-#summary simple installation guide
+#summary how to install guide
 
   download the latest HandbrakeCLI from here -> https://build.handbrake.fr/job/WindowsCLI/
 
