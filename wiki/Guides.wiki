@@ -52,6 +52,7 @@
   * check "Hard Subs" if you want Hardsubs, HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only Soft Subbed it, if "Hard Subs" is unchecked then HandbrakeCLI will soft subbed it and preserve the font styles and formatting if its ASS/SSA soft subs
      * HardSubbed - means the subtitles are irreversibly part of the video so you cannot turn off this or extract this kind of subs
      * SoftSubbed - means the subtitles are just part of the video like a text display that can easily be turn off or turn on back again and this kind of subtitles can be extracted
+
   * set "High Quality" on "Presets" area, this is the highest setting meaning it will give high quality but at the price of longer encoding time
 
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
