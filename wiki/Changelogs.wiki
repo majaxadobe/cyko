@@ -1,5 +1,8 @@
 #summary what are the changes to cyko
 
+* 04-03-11 *
+  * handbrake added support for ASS/SSA soft subbing so Cyko have it too now
+
 * 03-30-11 *
   * updated the presets, high quality preset is same as --preset veryslow of x264 this will give more compression and quality gain at the cost of a little longer encoding time
 
