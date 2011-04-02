@@ -25,7 +25,7 @@ Notes:
   choose from 48-99 for example 48 is the recommend choice
     * the higher the audio bitrate the higher the quality but higher the file size
 *Hard Subs*
-  if its unchecked then it will soft subbed 
+  if its unchecked then it will do Soft Subs
 *Presets*
   always go for "High Quality" at the cost of longer re-encoding time
 
