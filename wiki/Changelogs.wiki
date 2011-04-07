@@ -1,5 +1,8 @@
 #summary what are the changes to cyko
 
+* 04-07-11 *
+  * added turbo first pass on the commandline code of "Target Bitrate" (or 2-pass mode) for more faster encoding on 2-pass mode
+
 * 04-03-11 *
   * handbrake added support for ASS/SSA soft subbing so Cyko have it too now
 
