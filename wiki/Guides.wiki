@@ -65,12 +65,6 @@
   
   NOTE: if you like to stop the encoding do not close the console window but rather click "Abort Encoding" button so that HandbrakeCLI will be remove safely from computer memory 
 
-  then if the encoding is finished it will show you this message box
-
-  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWrINwFI/AAAAAAAAASI/OG_HSpyxV2M/s800/Tuts_Cyko_05.png
-
-  this means that the output files are in the same place where the input files are, just with added "-OUT" on its filename
-
   NOTE: if ever you are prompted by this message box
 
   https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDW4JQggI/AAAAAAAAASM/BpO93WwmgzY/s800/Tuts_Cyko_06.png
