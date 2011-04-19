@@ -13,7 +13,7 @@
   * option 2, as long as the "Inputs" tab is showin you drag and drop files onto the "Inputs" tab
   then your done adding source files, a screenshot for "Inputs" is below
 
-  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDVx3gZ5I/AAAAAAAAAR8/VejRgwM_1LQ/s800/Tuts_Cyko_01.png
+  https://lh5.googleusercontent.com/_mkr3XoFuDyQ/Ta0Nb7VE_PI/AAAAAAAAAXs/ewVvddGyqMI/s800/Tuts_Cyko_01.png
 
 -------------
   on the "Options" tab you got two Rate Control methods and describes as:
