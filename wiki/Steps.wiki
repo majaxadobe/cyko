@@ -7,7 +7,7 @@
 
 *encoding with cyko*
 
-https://lh3.googleusercontent.com/_mkr3XoFuDyQ/TYttbLu_yQI/AAAAAAAAAVE/oKpM5RFnk9U/s800/Cyk-01.png
+https://lh6.googleusercontent.com/_mkr3XoFuDyQ/Ta0Nbg5yBaI/AAAAAAAAAXo/9rFNCMzrkiA/s800/Cyk-01.png
 
 https://lh5.googleusercontent.com/_mkr3XoFuDyQ/TYttbaaI7UI/AAAAAAAAAVI/o1w-oXckXOE/s800/Cyk-02.png
 
@@ -30,12 +30,6 @@ Notes:
   always go for "High Quality" at the cost of longer re-encoding time
 
 https://lh6.googleusercontent.com/_mkr3XoFuDyQ/TYttaxtf3lI/AAAAAAAAAVA/arxEY3PIkYg/s800/Cyk-03.png
-
-then if the re-encoding is finished it will show you this message box 
-
-https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWrINwFI/AAAAAAAAASI/OG_HSpyxV2M/s800/Tuts_Cyko_05.png
-
-this means that the output files are in the same place where the input files are, just with added "-OUT" on its filename 
 
 NOTE: if ever you are prompted by this message box 
 
