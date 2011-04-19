@@ -12,6 +12,8 @@
   * option 1, click the "Add Source Files" button 
   * option 2, as long as the "Inputs" tab is showin you drag and drop files onto the "Inputs" tab
   then click "Output Location" button to select the directory for your output re-encodes
+
+
   https://lh5.googleusercontent.com/_mkr3XoFuDyQ/Ta0Nb7VE_PI/AAAAAAAAAXs/ewVvddGyqMI/s800/Tuts_Cyko_01.png
 
 -------------
