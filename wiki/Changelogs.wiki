@@ -3,9 +3,9 @@
 * 04-27-11 *
   *changed the presets to be more balance on speed and quality
 
-Hight Quality -> deblock=1,1:ref=8:bframes=5:me=umh:subme=10:trellis=2:psy-rd=0.0:aq-strength=0.6:aq-mode=2
-Medium Quality -> deblock=1,1:ref=5:bframes=3:me=umh:subme=8:trellis=1:psy-rd=0.0:aq-strength=0.6
-Low Quality -> deblock=1,1:ref=3:bframes=3:trellis=1:psy-rd=0.0:aq-strength=0.6
+  Hight Quality -> deblock=1,1:ref=8:bframes=5:me=umh:subme=10:trellis=2:psy-rd=0.0:aq-strength=0.6:aq-mode=2
+   Medium Quality -> deblock=1,1:ref=5:bframes=3:me=umh:subme=8:trellis=1:psy-rd=0.0:aq-strength=0.6
+   Low Quality -> deblock=1,1:ref=3:bframes=3:trellis=1:psy-rd=0.0:aq-strength=0.6
 
 * 04-19-11 *
   * add "Output Location" button on the "Inputs" tab
