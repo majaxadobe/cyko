@@ -1,5 +1,8 @@
 #summary what are the changes to cyko
 
+* 04-29-11 *
+  * added b-adapt=2 on presets "medium quality" and "high quality"
+
 * 04-27-11 *
   * changed the presets to be more balance on speed and quality
 
