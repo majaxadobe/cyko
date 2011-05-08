@@ -27,11 +27,10 @@ Notes:
 *Hard Subs*
   if its unchecked then it will do Soft Subs
   * if Hard Subs is checked it will output to mp4 
-  you may wonder what if the source file has no subs at all 
-  so will checking "Hard Subs" still output to mp4? 
-  the answer is yes
+  * you may wonder what if the source file has no subs at all 
+  * so will checking "Hard Subs" still output to mp4? the answer is yes
   * if Hard Subs is unchecked it will output to mkv
-  and will add all the soft subs to mkv
+  * and will add all the soft subs to mkv
   
 
 *Presets*
