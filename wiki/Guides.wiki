@@ -53,6 +53,8 @@
   * check "Hard Subs" if you want Hardsubs, HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only Soft Subbed it, if "Hard Subs" is unchecked then HandbrakeCLI will soft subbed it and preserve the font styles and formatting if its ASS/SSA soft subs
      * Hard Subbed - means the subtitles are irreversibly part of the video so you cannot turn off this or extract this kind of subs
      * Soft Subbed - means the subtitles are just part of the video like a text display that can easily be turn off or turn on back again and this kind of subtitles can be extracted
+     * if Hard Subs is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
+     * if Hard Subs is unchecked it will output to mkv, and will add all the soft subs to mkv
 
   * set "High Quality" on "Presets" area, this is the highest setting meaning it will give high quality but at the price of longer encoding time
 
