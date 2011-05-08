@@ -1,5 +1,8 @@
 #summary what are the changes to cyko
 
+* 05-08-11 *
+  * added --mixdown mono for encoding FLAC 6 channel audio to low bitrates
+
 * 04-29-11 *
   * added b-adapt=2 on presets "medium quality" and "high quality"
 
