@@ -1,7 +1,7 @@
 #summary what are the changes to cyko
 
 * 05-09-11 *
-  * when "Hard Subs" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
+  * when "Hard Subs" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? tha answer is yes
 
 * 05-08-11 *
   * added "--mixdown mono" for encoding FLAC 6 channel audio to low bitrates
