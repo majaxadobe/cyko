@@ -1,5 +1,8 @@
 #summary what are the changes to cyko
 
+* 07-07-11 *
+  * update settings for "High Quality" added me-range=24 for more efficiency that lessens blocking 
+
 * 05-10-11 *
   * fix output naming and when "Hard Subs" is checked it outputs to mp4,   in the old naming of output if for example the source name is "sample.mkv" it will output to "sample.mkv-OUT.mkv" but now it will be "sample-OUT.mkv" only
 
