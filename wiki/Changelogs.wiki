@@ -1,5 +1,8 @@
 #summary what are the changes to cyko
 
+* 07-17-11 *
+  * added presets for devices like ipod/psp and the universal preset of handbrake 
+
 * 07-07-11 *
   * update settings for "High Quality" added me-range=24 for more efficiency that lessens blocking 
 
