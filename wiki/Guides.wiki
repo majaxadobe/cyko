@@ -14,7 +14,7 @@
   then click "Output Location" button to select the directory for your output re-encodes
 
 
-https://lh5.googleusercontent.com/-zw-Hvr6pFWw/TkJ7ldXdF8I/AAAAAAAAACg/SgJvpns7alI/s800/Cyko_1.png  
+https://lh5.googleusercontent.com/-KHHOresGHmA/TkJ7laIJtRI/AAAAAAAAACg/2KheKSoyk0A/s800/Tuts_Cyko_01.png
 
 -------------
   on the "Options" tab you got two Rate Control methods and describes as:
@@ -60,7 +60,7 @@ https://lh5.googleusercontent.com/-zw-Hvr6pFWw/TkJ7ldXdF8I/AAAAAAAAACg/SgJvpns7a
 
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
-https://lh3.googleusercontent.com/-5L5y54WDbWk/TkJ7lVczD9I/AAAAAAAAACg/l6a5dfpVLYM/s800/Cyko_2.1.png
+https://lh5.googleusercontent.com/-_5vfk_o3Lm0/TkJ7lQg1boI/AAAAAAAAACg/puobvytSoY8/s800/Tuts_Cyko_02.png
 
 ---------------
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
