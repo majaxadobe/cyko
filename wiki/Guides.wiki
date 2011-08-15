@@ -14,7 +14,7 @@
   then click "Output Location" button to select the directory for your output re-encodes
 
 
-  https://lh5.googleusercontent.com/_mkr3XoFuDyQ/Ta0Nb7VE_PI/AAAAAAAAAXs/ewVvddGyqMI/s800/Tuts_Cyko_01.png
+https://lh5.googleusercontent.com/-zw-Hvr6pFWw/TkJ7ldXdF8I/AAAAAAAAACg/SgJvpns7alI/s800/Cyko_1.png  
 
 -------------
   on the "Options" tab you got two Rate Control methods and describes as:
@@ -60,7 +60,7 @@
 
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
-  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDWK6_CKI/AAAAAAAAASA/vmE16WNtQgU/s800/Tuts_Cyko_02.png
+https://lh3.googleusercontent.com/-3AMCNBeKzfM/TkJ7lZdrXvI/AAAAAAAAACg/SKQlORkpFK8/s800/Cyko_2.png
 
 ---------------
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
@@ -69,7 +69,7 @@
 
   NOTE: if ever you are prompted by this message box
 
-  https://lh4.googleusercontent.com/_mkr3XoFuDyQ/TWSDW4JQggI/AAAAAAAAASM/BpO93WwmgzY/s800/Tuts_Cyko_06.png
+https://lh3.googleusercontent.com/-7OIp1Ls7zRU/TkJ7lRIrMlI/AAAAAAAAACg/gkc5IHZ6-OI/s800/Tuts_Cyko_06.png
 
   it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again
 
