@@ -56,7 +56,7 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
      * if "Hard Subs" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
      * if "Hard Subs" is unchecked it will output to mkv, and will add all the soft subs to mkv
 
-  * set "Very Slow" on "Presets" area, the "Presets" are x264 options that are adjusted according to compression vs encoding time speed, so if you set the preset at a slower value then youll end up with slower encoding but at the benefit of more reduce filesize, and if you set this at a faster encoding preset then youll end up with a bigger filesize output
+  * set "Very Slow" on "Presets" area, the "Presets" are x264 options that are adjusted according to compression vs encoding time speed, so if you set the preset at a slower value then youll end up with slower encoding but at the benefit of more reduce filesize, and if you set this at a faster encoding preset then youll end up with a bigger filesize output, its not hihgly recommended to use the "Placebo" on the "Presets" since it just give around 1% compression gain compared to "Very Slow" on most cases and at the cost of a whopping double to triple encoding time compared to "Very Slow" 
 
   * set "Animation" on "Tunes" area, the "Tunes" are x264 options that further adjust the settings of x264 according to what is the video source your encoding, so if your re-encoding any 2D videos like anime or cartoons then set "Tunes" to "Animation", but if your re-encoding a live-action film with real-life footages then go with "Tunes" set to "Film", 3D or CGI animations are considered on "Film" settings of "Tunes"
 
