@@ -32,12 +32,12 @@ Notes:
   
 
 *Presets*
-  always go for "Very Slow", its much slower encoding but at the benefit of more lower filesize output
+  always go for "*Very Slow*", its much slower encoding but at the benefit of more lower filesize output
 
 *Tunes*
-  always go for "Animation" if your source is Anime/Cartoons, if your video input is live-action or 3D or CGI or real-life footages then go for "Film"
+  always go for "*Animation*" if your source is Anime/Cartoons, if your video input is live-action or 3D or CGI or real-life footages then go for "*Film*"
 
-*Denoise"
+*Denoise*
  check this always because removal of noise on the video like grains will lessen the final filesize more 
 
 https://lh3.googleusercontent.com/-sikNB5kOmR4/TvfPhc_eUjI/AAAAAAAAAH0/qNzQUi1pioQ/s800/Cyko_S3.png
