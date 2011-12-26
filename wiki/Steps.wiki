@@ -7,9 +7,9 @@
 
 *encoding with cyko*
 
-https://lh5.googleusercontent.com/-cxgRw3TTgxE/TkJ7ldcVcSI/AAAAAAAAACg/2Hg_J3dmlJM/s800/Cyk-01.png
+https://lh4.googleusercontent.com/--BgMKlasPAw/TvfPgzLFaMI/AAAAAAAAAHs/PU5eE1heFMo/s800/Cyko_S1.png
 
-https://lh5.googleusercontent.com/-RAJ7oJ3DUKk/TkJ7lX9BFCI/AAAAAAAAACg/eqSB_MTo3ck/s800/Cyk-02.png
+https://lh3.googleusercontent.com/-U8ODCSgpOqw/TvfPhKMvIRI/AAAAAAAAAHw/RZ2pveK0Fiw/s800/Cyko_S2.png
 
 Notes:
 
@@ -33,11 +33,11 @@ Notes:
 *Presets*
   always go for "High Quality" at the cost of longer re-encoding time
 
-https://lh4.googleusercontent.com/-tWF2WQ4xIJE/TkJ7lfts_WI/AAAAAAAAACg/OmMUBDGjrds/s800/Cyk-03.png
+https://lh3.googleusercontent.com/-sikNB5kOmR4/TvfPhc_eUjI/AAAAAAAAAH0/qNzQUi1pioQ/s800/Cyko_S3.png
 
 NOTE: if ever you are prompted by this message box 
 
-https://lh3.googleusercontent.com/-7OIp1Ls7zRU/TkJ7lRIrMlI/AAAAAAAAACg/gkc5IHZ6-OI/s800/Tuts_Cyko_06.png
+https://lh4.googleusercontent.com/-5UjV28ky6rM/TvfB5yNx_4I/AAAAAAAAAHU/mDpQvYKaf-Y/s800/Cyko.7.jpg
 
 it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again 
 
