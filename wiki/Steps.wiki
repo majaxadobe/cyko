@@ -32,7 +32,7 @@ Notes:
   
 
 *Presets*
-  always go for "*Very Slow*", its much slower encoding but at the benefit of more lower filesize output
+  always go for "*Very Slow*", its much slower encoding or will give you longer encoding time but at the benefit of more lower filesize output
 
 *Tunes*
   always go for "*Animation*" if your source is Anime/Cartoons, if your video input is live-action or 3D or CGI or real-life footages then go for "*Film*"
