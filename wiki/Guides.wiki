@@ -60,6 +60,8 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
 
   * set "Animation" on "Tunes" area, the "Tunes" are x264 options that further adjust the settings of x264 according to what is the video source your encoding, so if your re-encoding any 2D videos like anime or cartoons then set "Tunes" to "Animation", but if your re-encoding a live-action film with real-life footages then go with "Tunes" set to "Film", 3D or CGI animations are considered on "Film" settings of "Tunes"
 
+  * if "Denoise" is checked it will use the x264's built in Denoiser, Denoising is helpful in achieving more lower filesize output since it removes unwanted video data or noise, especially if your video source is already noisy like lots of grains 
+
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
 https://lh5.googleusercontent.com/-jdmy0Dc8qlU/TvfB3Kuhw-I/AAAAAAAAAG0/gYIQEbzMoCk/s800/Cyko.2.jpg
