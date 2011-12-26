@@ -58,7 +58,7 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
 
   * set "Very Slow" on "Presets" area, the "Presets" are x264 options that are adjusted according to compression vs encoding time speed, so if you set the preset at a slower value then youll end up with slower encoding but at the benefit of more reduce filesize, and if you set this at a faster encoding preset then youll end up with a bigger filesize output
 
-  * set "Animation" on "Tunes" area, the "Tunes" are x264 options that further adjust the settings of x264 according to what is the video source your encoding, so if your re-encoding any 2D videos like anime or cartoons then set "Tunes" to "Animation", but if your re-encoding a live-action film with real-life footages then go with "Tunes" set to "Film", 3D or CGI animations are considered on "Film" of "Tunes"
+  * set "Animation" on "Tunes" area, the "Tunes" are x264 options that further adjust the settings of x264 according to what is the video source your encoding, so if your re-encoding any 2D videos like anime or cartoons then set "Tunes" to "Animation", but if your re-encoding a live-action film with real-life footages then go with "Tunes" set to "Film", 3D or CGI animations are considered on "Film" settings of "Tunes"
 
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
