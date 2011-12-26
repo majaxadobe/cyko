@@ -14,7 +14,7 @@
   then click "Output Location" button to select the directory for your output re-encodes
 
 
-https://lh5.googleusercontent.com/-KHHOresGHmA/TkJ7laIJtRI/AAAAAAAAACg/2KheKSoyk0A/s800/Tuts_Cyko_01.png
+https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbNjg/s800/Cyko.1.jpg
 
 -------------
   on the "Options" tab you got two Rate Control methods and describes as:
@@ -60,7 +60,15 @@ https://lh5.googleusercontent.com/-KHHOresGHmA/TkJ7laIJtRI/AAAAAAAAACg/2KheKSoyk
 
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
 
-https://lh5.googleusercontent.com/-_5vfk_o3Lm0/TkJ7lQg1boI/AAAAAAAAACg/puobvytSoY8/s800/Tuts_Cyko_02.png
+https://lh5.googleusercontent.com/-jdmy0Dc8qlU/TvfB3Kuhw-I/AAAAAAAAAG0/gYIQEbzMoCk/s800/Cyko.2.jpg
+
+https://lh4.googleusercontent.com/-h3eS9sRE-3A/TvfB3b7bBFI/AAAAAAAAAGw/us2iirwpdsY/s800/Cyko.3.jpg
+
+https://lh4.googleusercontent.com/-EqZqc1UHY7M/TvfB4QPfXWI/AAAAAAAAAHE/SAUowAoKH7Y/s800/Cyko.4.jpg
+
+https://lh5.googleusercontent.com/-WbRNz8EVQsU/TvfB5U5AzuI/AAAAAAAAAHM/X_ZSj3o0cL4/s800/Cyko.5.jpg
+
+https://lh5.googleusercontent.com/-vWpIS04kSkU/TvfB5oVX4XI/AAAAAAAAAHI/-oWq8O-Xsvw/s800/Cyko.6.jpg
 
 ---------------
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
@@ -69,7 +77,7 @@ https://lh5.googleusercontent.com/-_5vfk_o3Lm0/TkJ7lQg1boI/AAAAAAAAACg/puobvytSo
 
   NOTE: if ever you are prompted by this message box
 
-https://lh3.googleusercontent.com/-7OIp1Ls7zRU/TkJ7lRIrMlI/AAAAAAAAACg/gkc5IHZ6-OI/s800/Tuts_Cyko_06.png
+https://lh4.googleusercontent.com/-5UjV28ky6rM/TvfB5yNx_4I/AAAAAAAAAHU/mDpQvYKaf-Y/s800/Cyko.7.jpg
 
   it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again
 
