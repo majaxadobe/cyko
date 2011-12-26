@@ -21,7 +21,7 @@ Notes:
 *Height*
   choose from 400, 480, 576 (this is 400p, 480p, 576p)
     * cyko (specifically Handbrake) do not allow upscaling so if your source is not 720p for example once you set 720p on the "Height" inputbox it will be automatically set to the actual height pixel resolution of the source
-    * you can switch this to Width if you like
+    * you can switch this to *Width* if you like
 
 *Audio Bitrate*
   choose from 48-99 for example 48 is the recommend choice
