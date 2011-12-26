@@ -1,18 +1,18 @@
 #summary what are the changes to cyko
 12-15-11
-- fix some bug when choosing a preset the hardsub option becomes checked
+  * fix some bug when choosing a preset the hardsub option becomes checked
 
 * 12-06-11 *
-- added preset and tune options of x264 (so make sure to use the latest nighly build of handbrakeCLI)
-- make x264 denoiser a checkbox option
-- added switchable width/height resolution
-- remove the presets for devices like PSP and Cellphone, ill just have to wait for the --device options of x264 since i heard it will be added soon
+  * added preset and tune options of x264 (so make sure to use the latest nighly build of handbrakeCLI)
+  * make x264 denoiser a checkbox option
+  * added switchable width/height resolution
+  * remove the presets for devices like PSP and Cellphone, ill just have to wait for the --device options of x264 since i heard it will be added soon
 
 * 12-05-11 *
-- added denoising parameter of x264lib (denoising lessens bitrate/filesize more on grainy or noisy source videos)
+  * added denoising parameter of x264lib (denoising lessens bitrate/filesize more on grainy or noisy source videos)
 
 * 10-31-11 *
-- change preset universal to preset cellphone to encode QVGA (or 320x240 screen) videos for mobile phone viewing
+  * change preset universal to preset cellphone to encode QVGA (or 320x240 screen) videos for mobile phone viewing
 
 * 07-17-11 *
   * added presets for devices like ipod/psp and the universal preset of handbrake 
