@@ -19,18 +19,18 @@ Notes:
   Target Bitrate choose from 300-500 for example on "*Value*" inputbox set 400
     * the higher the bitrate value the higher the quality but higher the file size
 *Height*
-  you can switch this to Width if you like
-
   choose from 400, 480, 576 (this is 400p, 480p, 576p)
     * cyko (specifically Handbrake) do not allow upscaling so if your source is not 720p for example once you set 720p on the "Height" inputbox it will be automatically set to the actual height pixel resolution of the source
+    * you can switch this to Width if you like
+
 *Audio Bitrate*
   choose from 48-99 for example 48 is the recommend choice
     * the higher the audio bitrate the higher the quality but higher the file size
+
 *Hard Subs*
   if its unchecked then it will do Soft Subs
   * if "*Hard Subs*" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
   * if "*Hard Subs*" is unchecked it will output to mkv, and will add all the soft subs to mkv
-  
 
 *Presets*
   always go for "*Very Slow*", its much slower encoding or will give you longer encoding time but at the benefit of more lower filesize output
