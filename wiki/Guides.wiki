@@ -48,7 +48,7 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
       * the lower the output resolution the faster the encoding time
       * so for example a 720p output resolution will be longer to encode than 400p output resolution
 
-  * set 48 on your "Audio Bitrate" input box, HandbrakeCLI only supports vorbis audio and the lowest you can set is 48 kbps
+  * set 48 on your "Audio Bitrate" input box
 
   * check "Hard Subs" if you want Hardsubs, HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only Soft Subbed it, if "Hard Subs" is unchecked then HandbrakeCLI will soft subbed it and preserve the font styles and formatting if its ASS/SSA soft subs
      * Hard Subbed - means the subtitles are irreversibly part of the video so you cannot turn off this or extract this kind of subs
@@ -62,7 +62,7 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
 
   * if "Denoise" is checked it will use the x264's built in Denoiser, Denoising is helpful in achieving more lower filesize output since it removes unwanted video data or noise, especially if your video source is already noisy like it has lots of grains 
 
-  * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, a screenshot for "Options" is below
+  * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, screenshots for "Options" are below
 
 https://lh5.googleusercontent.com/-jdmy0Dc8qlU/TvfB3Kuhw-I/AAAAAAAAAG0/gYIQEbzMoCk/s800/Cyko.2.jpg
 
