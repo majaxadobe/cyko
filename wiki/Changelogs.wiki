@@ -1,5 +1,5 @@
 #summary what are the changes to cyko
-12-15-11
+* 12-15-11 *
   * fix some bug when choosing a preset the hardsub option becomes checked
 
 * 12-06-11 *
