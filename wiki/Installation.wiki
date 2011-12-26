@@ -6,7 +6,7 @@
 
   the example instructions will look like this
 
-  http://lh6.ggpht.com/_mkr3XoFuDyQ/TNIOUfOGzbI/AAAAAAAAALs/V2sUfyFasVo/s800/Cyko_4.png
+https://lh4.googleusercontent.com/-9EYwTD1MhI8/TkJ7lZU4CmI/AAAAAAAAACg/541Z5rdV1cA/s800/Cyko_4.png
 
   updating HandbrakeCLI is thesame thing only difference is you have to overwrite the HandbrakeCLI.exe with the updated HandbrakeCLI.exe on thesame location as cyko.exe
 
