@@ -48,4 +48,4 @@ https://lh4.googleusercontent.com/-5UjV28ky6rM/TvfB5yNx_4I/AAAAAAAAAHU/mDpQvYKaf
 
 it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again 
 
-and that is all folks, congrats on re-encoding 
+and that is all folks, congrats on re-encoding
