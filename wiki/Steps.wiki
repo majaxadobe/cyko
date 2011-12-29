@@ -9,7 +9,7 @@
 
 https://lh4.googleusercontent.com/--BgMKlasPAw/TvfPgzLFaMI/AAAAAAAAAHs/PU5eE1heFMo/s800/Cyko_S1.png
 
-https://lh3.googleusercontent.com/-U8ODCSgpOqw/TvfPhKMvIRI/AAAAAAAAAHw/RZ2pveK0Fiw/s800/Cyko_S2.png
+https://lh3.googleusercontent.com/-vYXH-XEyT3s/TvztUzC_u9I/AAAAAAAAAJU/VSFf_Ko9slM/s800/Cyko.2.1.png
 
 Notes:
 
@@ -32,14 +32,17 @@ Notes:
   * if "*Hard Subs*" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
   * if "*Hard Subs*" is unchecked it will output to mkv, and will add all the soft subs to mkv
 
+*Denoise*
+ check this always because removal of noise on the video like grains will lessen the final filesize more 
+
 *Presets*
   always go for "*Very Slow*", its much slower encoding or will give you longer encoding time but at the benefit of more lower filesize output
 
 *Tunes*
   always go for "*Animation*" if your source is Anime/Cartoons, if your video input is live-action or 3D or CGI or real-life footages then go for "*Film*"
 
-*Denoise*
- check this always because removal of noise on the video like grains will lessen the final filesize more 
+*Profiles*
+  always go for "*High*" if your targeting playback on PC or laptops, "*Main*" is almost the same in terms of power consumption with "*High*" profile, while "*Baseline*" profile is mainly for low power playback devices such as mobile phones 
 
 https://lh3.googleusercontent.com/-sikNB5kOmR4/TvfPhc_eUjI/AAAAAAAAAH0/qNzQUi1pioQ/s800/Cyko_S3.png
 
