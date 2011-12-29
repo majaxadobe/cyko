@@ -62,6 +62,8 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
 
   * set "Animation" on "Tunes" area, the "Tunes" are x264 options that further adjust the settings of x264 according to what is the video source your encoding, so if your re-encoding any 2D videos like anime or cartoons then set "Tunes" to "Animation", but if your re-encoding a live-action film with real-life footages then go with "Tunes" set to "Film", 3D or CGI animations are considered on "Film" settings of "Tunes"
 
+  * set "High" on "Profiles" area, the x264 "Profiles" are additional adjustments to the x264 settings mainly geared for device playbacks. the profile "Baseline" is the good choice for low power devices like mobile phone playback, the profile "Main" is mainly for standard definition (SD) TV broadcast, while profile "High" is for any applications that is powerful such as a laptop or desktop PC kind/like of devices 
+
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, screenshots for "Options" are below
 
 https://lh6.googleusercontent.com/-oJqsXT3rkVE/TvzmjpgL3JI/AAAAAAAAAJI/uW7C2c42Eh0/s800/Cyko.2.png
