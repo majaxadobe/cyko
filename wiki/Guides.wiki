@@ -64,15 +64,15 @@ https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbN
 
   * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, screenshots for "Options" are below
 
-https://lh5.googleusercontent.com/-jdmy0Dc8qlU/TvfB3Kuhw-I/AAAAAAAAAG0/gYIQEbzMoCk/s800/Cyko.2.jpg
+https://lh6.googleusercontent.com/-oJqsXT3rkVE/TvzmjpgL3JI/AAAAAAAAAJI/uW7C2c42Eh0/s800/Cyko.2.png
 
-https://lh4.googleusercontent.com/-h3eS9sRE-3A/TvfB3b7bBFI/AAAAAAAAAGw/us2iirwpdsY/s800/Cyko.3.jpg
+https://lh4.googleusercontent.com/-kV-8R1eWVvg/TvzlfdCS6AI/AAAAAAAAAIY/72iBmdkyD4w/s800/Cyko.3.png
 
-https://lh4.googleusercontent.com/-EqZqc1UHY7M/TvfB4QPfXWI/AAAAAAAAAHE/SAUowAoKH7Y/s800/Cyko.4.jpg
+https://lh6.googleusercontent.com/-7PvY8_vJ6kw/Tvzlf1IScsI/AAAAAAAAAIg/boHpnpK62nw/s800/Cyko.4.png
 
-https://lh5.googleusercontent.com/-WbRNz8EVQsU/TvfB5U5AzuI/AAAAAAAAAHM/X_ZSj3o0cL4/s800/Cyko.5.jpg
+https://lh5.googleusercontent.com/-3LH9OgyqwyU/TvzlfxEZcII/AAAAAAAAAIc/iuWHDC1iTT4/s800/Cyko.5.png
 
-https://lh5.googleusercontent.com/-vWpIS04kSkU/TvfB5oVX4XI/AAAAAAAAAHI/-oWq8O-Xsvw/s800/Cyko.6.jpg
+https://lh4.googleusercontent.com/-uRGSU_Oefwc/TvzlhDj_8iI/AAAAAAAAAIs/P4Rx7Z73JL4/s800/Cyko.6.png
 
 ---------------
   on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
