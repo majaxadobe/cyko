@@ -1,6 +1,6 @@
 #summary how to install guide
 
-  download the latest HandbrakeCLI from here -> https://build.handbrake.fr/job/WindowsCLI/
+  download the latest HandbrakeCLI from here -> https://build.handbrake.fr/job/WindowsCLI/ or http://handbrake.fr/nightly.php
 
   extract the .zip archive on thesame location as cyko for example cyko is located at "c:\cyko\" then put "HandbrakeCLI" inside "c:\cyko\" and then inside "c:\cyko\" youll see cyko.exe and HandbrakeCLI.exe then thats it run cyko and use it
 
