@@ -1,0 +1,96 @@
+### getting cyko ###
+  * download cyko here -> http://code.google.com/p/cyko/downloads/list
+
+### installing cyko ###
+  * guide to install it is here -> http://code.google.com/p/cyko/wiki/Installation
+
+
+---
+
+### encoding with cyko ###
+> on the "Inputs" tab you got 2 options to add your source files for re-encoding:
+  * option 1, click the "Add Source Files" button
+  * option 2, as long as the "Inputs" tab is showin you drag and drop files onto the "Inputs" tab
+> then click "Output Location" button to select the directory for your output re-encodes
+
+
+![https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbNjg/s800/Cyko.1.jpg](https://lh3.googleusercontent.com/-U482rUYZy58/TvfB20UQJtI/AAAAAAAAAGs/jOP4ROTbNjg/s800/Cyko.1.jpg)
+
+
+---
+
+> on the "Options" tab you got two Rate Control methods and describes as:
+  * "Target Quality" is CRF (Constant Rate Factor) or in other words Constant Quality, in constant quality mode filesize will depend on the videos compressibility and resolution; CRF is for somewhat constant quality but filesize varies
+    * the lower the CRF value the higher the quality but the bigger the filesize
+    * the higher the CRF value the lower the quality but the smaller the filesize
+    * when your encoding in CRF or Target Quality the higher the resolution output you set then the higher the filesize, for example you encode a specific file at 480p output and that exact file is encoded too at 720p output and that both of them are encoded at same settings and same CRF value of 26, the 720p at CRF = 26 will have higher filesize
+
+> for CRF value ranges of a given resolution ill go with
+```
+  400p at 16:9 (704x400) ill go with CRF = 25 or 26
+  384p at 4:3 (512x384) ill go with CRF = 25 or 26
+  480p at 16:9 (848x480) ill go with CRF = 27 or 28
+  480p at 4:3 (640x480) ill go with CRF = 27 or 28
+```
+  * "Target Bitrate" is 2-pass average bitrate mode; 2-pass average bitrate is for somewhat constant filesize but quality varies
+    * the lower the bitrate the lower the quality but lower the filesize
+    * the higher the bitrate the higher the quality but higher the filesize
+
+> for average bitrate value ranges of a given resolution ill go with
+```
+  400p at 16:9 (704x400) ill go with bitrate = 300 or 380
+  384p at 4:3 (512x384) ill go with bitrate = 300 or 380
+  480p at 16:9 (848x480) ill go with bitrate = 400 or 480
+  480p at 4:3 (640x480) ill go with bitrate = 400 or 480
+```
+> NOTE: point your mouse on the input box of "Value" and pause it until it shows Hints for what values are good starting points
+
+---
+
+  * set a resolution you can toggle between "Height" or "Width", for Height input box examples are 480p, 400p, 360p, just add the number no need to add the letter "p" in the end; do not worry about what will be the output of the width as HandbrakeCLI will automatically calculate the width depending on the Height you inputted and your input source's resolution or aspect ratio
+    * the higher the output resolution the longer the encoding time
+    * the lower the output resolution the faster the encoding time
+    * so for example a 720p output resolution will be longer to encode than 400p output resolution
+
+  * set 48 on your "Audio Bitrate" input box
+
+  * check "Hard Subs" if you want Hardsubs, HandbrakeCLI will hardsub the subs if its styled subs or ASS/SSA subtitle format but if the subs is in SRT for example meaning plain white arial font subs then HandbrakeCLI will only Soft Subbed it, if "Hard Subs" is unchecked then HandbrakeCLI will soft subbed it and preserve the font styles and formatting if its ASS/SSA soft subs
+    * Hard Subbed - means the subtitles are irreversibly part of the video so you cannot turn off this or extract this kind of subs
+    * Soft Subbed - means the subtitles are just part of the video like a text display that can easily be turn off or turn on back again and this kind of subtitles can be extracted
+    * if "Hard Subs" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
+    * if "Hard Subs" is unchecked it will output to mkv, and will add all the soft subs to mkv
+
+  * if "Denoise" is checked it will use the x264's built in Denoiser, Denoising is helpful in achieving more lower filesize output since it removes unwanted video data or noise, especially if your video source is already noisy like it has lots of grains
+
+  * set "Very Slow" on "Presets" area, the "Presets" are x264 options that are adjusted according to compression vs encoding time speed, so if you set the preset at a slower value then youll end up with slower encoding but at the benefit of more reduce filesize, and if you set this at a faster encoding preset then youll end up with a bigger filesize output, its not highly recommended to use the "Placebo" on the "Presets" since it just give around 1% compression gain compared to "Very Slow" on most cases and at the cost of a whopping double to triple encoding time compared to "Very Slow"
+
+  * set "Animation" on "Tunes" area, the "Tunes" are x264 options that further adjust the settings of x264 according to what is the video source your encoding, so if your re-encoding any 2D videos like anime or cartoons then set "Tunes" to "Animation", but if your re-encoding a live-action film with real-life footages then go with "Tunes" set to "Film", 3D or CGI animations are considered on "Film" settings of "Tunes"
+
+  * set "High" on "Profiles" area, the x264 "Profiles" are additional adjustments to the x264 settings mainly geared for device playbacks. the profile "Baseline" is the good choice for low power devices like mobile phone playback, the profile "Main" is mainly for standard definition (SD) TV broadcast, while profile "High" is for any applications that is powerful such as a laptop or desktop PC kind/like of devices
+
+  * now press the button that says "Scan Audio Tracks Count Then Put the Parameters To Outputs", this will scan the audio count of each input source file, so multi-audio is handled well then if it finished it will prompt you a message box saying "Scanning Done" so just click ok, screenshots for "Options" are below
+
+![https://lh6.googleusercontent.com/-oJqsXT3rkVE/TvzmjpgL3JI/AAAAAAAAAJI/uW7C2c42Eh0/s800/Cyko.2.png](https://lh6.googleusercontent.com/-oJqsXT3rkVE/TvzmjpgL3JI/AAAAAAAAAJI/uW7C2c42Eh0/s800/Cyko.2.png)
+
+![https://lh4.googleusercontent.com/-kV-8R1eWVvg/TvzlfdCS6AI/AAAAAAAAAIY/72iBmdkyD4w/s800/Cyko.3.png](https://lh4.googleusercontent.com/-kV-8R1eWVvg/TvzlfdCS6AI/AAAAAAAAAIY/72iBmdkyD4w/s800/Cyko.3.png)
+
+![https://lh6.googleusercontent.com/-7PvY8_vJ6kw/Tvzlf1IScsI/AAAAAAAAAIg/boHpnpK62nw/s800/Cyko.4.png](https://lh6.googleusercontent.com/-7PvY8_vJ6kw/Tvzlf1IScsI/AAAAAAAAAIg/boHpnpK62nw/s800/Cyko.4.png)
+
+![https://lh5.googleusercontent.com/-3LH9OgyqwyU/TvzlfxEZcII/AAAAAAAAAIc/iuWHDC1iTT4/s800/Cyko.5.png](https://lh5.googleusercontent.com/-3LH9OgyqwyU/TvzlfxEZcII/AAAAAAAAAIc/iuWHDC1iTT4/s800/Cyko.5.png)
+
+![https://lh4.googleusercontent.com/-uRGSU_Oefwc/TvzlhDj_8iI/AAAAAAAAAIs/P4Rx7Z73JL4/s800/Cyko.6.png](https://lh4.googleusercontent.com/-uRGSU_Oefwc/TvzlhDj_8iI/AAAAAAAAAIs/P4Rx7Z73JL4/s800/Cyko.6.png)
+
+
+---
+
+> on the "Outputs" tab, check "Show Console When Encoding" then click "Encode" button
+
+> NOTE: if you like to stop the encoding do not close the console window but rather click "Abort Encoding" button so that HandbrakeCLI will be remove safely from computer memory
+
+> NOTE: if ever you are prompted by this message box
+
+![https://lh4.googleusercontent.com/-5UjV28ky6rM/TvfB5yNx_4I/AAAAAAAAAHU/mDpQvYKaf-Y/s800/Cyko.7.jpg](https://lh4.googleusercontent.com/-5UjV28ky6rM/TvfB5yNx_4I/AAAAAAAAAHU/mDpQvYKaf-Y/s800/Cyko.7.jpg)
+
+> it means that you should place HandbrakeCLI.exe on the same place Cyko is in so check the "installing cyko" section at the top of this guide again
+
+> and that is all folks, congrats on re-encoding

@@ -1,0 +1,90 @@
+**12-15-11**
+  * fix some bug when choosing a preset the hardsub option becomes checked
+
+**12-06-11**
+  * added preset and tune options of x264 (so make sure to use the latest nighly build of handbrakeCLI)
+  * make x264 denoiser a checkbox option
+  * added switchable width/height resolution
+  * remove the presets for devices like PSP and Cellphone, ill just have to wait for the --device options of x264 since i heard it will be added soon
+
+**12-05-11**
+  * added denoising parameter of x264lib (denoising lessens bitrate/filesize more on grainy or noisy source videos)
+
+**10-31-11**
+  * change preset universal to preset cellphone to encode QVGA (or 320x240 screen) videos for mobile phone viewing
+
+**07-17-11**
+  * added presets for devices like ipod/psp and the universal preset of handbrake
+
+**07-07-11**
+  * update settings for "High Quality" added me-range=24 for more efficiency that lessens blocking
+
+**05-10-11**
+  * fix output naming and when "Hard Subs" is checked it outputs to mp4,   in the old naming of output if for example the source name is "sample.mkv" it will output to "sample.mkv-OUT.mkv" but now it will be "sample-OUT.mkv" only
+
+**05-09-11**
+  * when "Hard Subs" is checked it will output to mp4, you may wonder what if the source file has no subs at all so will checking "Hard Subs" still output to mp4? the answer is yes
+
+**05-08-11**
+  * added "--mixdown mono" for encoding FLAC 6 channel audio to low bitrates
+
+**04-29-11**
+  * added b-adapt=2 on presets "medium quality" and "high quality"
+
+**04-27-11**
+  * changed the presets to be more balance on speed and quality
+
+> Hight Quality -> deblock=1,1:ref=8:bframes=5:me=umh:subme=10:trellis=2:psy-rd=0.0:aq-strength=0.6:aq-mode=2
+
+> Medium Quality -> deblock=1,1:ref=5:bframes=3:me=umh:subme=8:trellis=1:psy-rd=0.0:aq-strength=0.6
+
+> Low Quality -> deblock=1,1:ref=3:bframes=3:trellis=1:psy-rd=0.0:aq-strength=0.6
+
+**04-19-11**
+  * add "Output Location" button on the "Inputs" tab
+
+**04-07-11**
+  * added turbo first pass on the commandline code of "Target Bitrate" (or 2-pass mode) for more faster encoding on 2-pass mode
+
+**04-03-11**
+  * handbrake added support for ASS/SSA soft subbing so Cyko have it too now
+
+**03-30-11**
+  * updated the presets, high quality preset is same as --preset veryslow of x264 this will give more compression and quality gain at the cost of a little longer encoding time
+
+**03-03-11**
+  * the close button of the console window is now disabled so if you want to stop the encoding process just click "Abort Encoding" button on the GUI app
+
+**02-23-2011**
+  * target Filesize is remove due to handbrake developers plan to remove it, read more here ->  https://forum.handbrake.fr/viewtopic.php?f=11&t=20174 you can still use average Bitrate though its name on cyko is "Target Bitrate"
+  * HandbrakeCLI.exe detection is now better
+  * remove the Width inputbox as it confuses newbies to encoding, resolution is in Height and in pixels anyway like 400p or 360p or 384p or 480p or 576p or etc.
+  * rename "CRF" to "Target Quality"
+  * rename "Bitrate" to "Target Bitrate"
+**11-11-10**
+  * adjusted PsyRD value to 0.0 on all quality presets but i didnt disable psy opts with --no-psy
+
+**11-05-10**
+  * fixed the abort button it will only abort when encoding is going
+  * added ReadMe.txt it will give you instructions on how to get and update HandbrakeCLI.exe
+
+**11-03-10**
+  * fix a scanning bug that occured when i reprogram the scanning feature
+
+**11-02-10**
+  * improve the scanning of multi-audio tracks
+  * fixes some possible user errors
+
+**11-01-10**
+  * add scanning status area below the scanning progress bar
+  * the scanning status area has tooltip so just pause your mouse pointer for a while in that area to see it
+
+**10-30-10**
+  * automatically detects and encodes multi-audio just like minicoder
+
+**10-26-10**
+  * "Show Console When Encoding" checkbox now works without restarting Cyko
+  * updated HandbrakeCLI to svn3625
+
+**10-25-10**
+  * updated now with Drag and Drop support (as requested)
